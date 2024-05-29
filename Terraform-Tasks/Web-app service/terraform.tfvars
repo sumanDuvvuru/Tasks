@@ -1,0 +1,7 @@
+rgname                  = "myresource-group123"
+rglocation              = "eastus"
+appserviceplan_name     = "myappserviceplan"
+appserviceplan_sku_size = "P1v2"
+appserviceplan_sku_tier = "PremiumV2"
+web-app_name            = "my-appservice-2912"
+autoscale_name          = "autoscaling"
